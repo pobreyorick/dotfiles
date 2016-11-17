@@ -1,0 +1,8 @@
+[core]
+	hideDotFiles = false
+	editor = emacs
+[web]
+	browser = chromium
+[user]
+	email = matt.s.giles@gmail.com
+	name = Matt Giles
